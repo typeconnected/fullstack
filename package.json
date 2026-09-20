@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-todo-app",
+  "version": "1.0.0",
+  "description": "Full-stack Todo app with Node.js, Express, PostgreSQL — for GitHub + Coolify deployment testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
